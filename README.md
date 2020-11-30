@@ -1,6 +1,6 @@
 # Alternatif Dergi Project Source Codes
 
-[Website is currently not live](http://alternatifdergi.com){:target="_blank"}
+[Website is currently not live](http://alternatifdergi.com)
 
 ## Support and Feedback
 
