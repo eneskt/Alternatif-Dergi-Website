@@ -1,0 +1,28 @@
+.card {
+  margin-right: auto;
+  margin-left: auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 4%;
+}
+
+.card-photo img {
+  border-radius: 50%;
+  border: solid black;
+  width: 20%;
+  height: auto;
+}
+.card-body {
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2%;
+  width: 50%;
+}
+
+.card-links {
+  font-size: 40px;
+  color: #3D405B;
+  justify-content: space-between;
+}
